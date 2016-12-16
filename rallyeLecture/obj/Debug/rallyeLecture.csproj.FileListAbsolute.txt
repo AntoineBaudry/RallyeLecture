@@ -1,0 +1,70 @@
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\bin\Debug\DocX.dll
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.dll
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+C:\Users\abaudry\Desktop\git\csharp\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+G:\Cours\SIO2\PPE 1\C#\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+G:\Cours\SIO2\PPE 1\C#\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+G:\Cours\SIO2\PPE 1\C#\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.dll
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.pdb
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+G:\Cours\SIO2\PPE 1\C#_new\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+G:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+G:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+G:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+G:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.dll
+G:\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.pdb
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+G:\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.pdb
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+G:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+H:\BTS SIO\RallyeLecture\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.pdb
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.dll
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\bin\Debug\UtilitairesIntegrationBd.pdb
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojResolveAssemblyReference.cache
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.fmIntegrationQuizz.resources
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+C:\Users\abaudry.SIO\Desktop\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.Cache
+G:\BTS SIO\E4\rallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+G:\BTS SIO\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+G:\BTS SIO\E4\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
